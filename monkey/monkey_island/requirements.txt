@@ -1,5 +1,5 @@
 python-dateutil
-tornado==5.1.1
+tornado==6.3.3
 werkzeug
 jinja2
 markupsafe
